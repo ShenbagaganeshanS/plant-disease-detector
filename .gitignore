@@ -1,0 +1,10 @@
+__pycache__/
+*.h5
+*.keras
+*.pb
+*.ckpt
+*.index
+*.data-00000-of-00001
+.env
+venv/
+yolov8env/
